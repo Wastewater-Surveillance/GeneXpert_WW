@@ -7,11 +7,12 @@ Some text describing GeneXpert use for wastewater surveillance of pathogens.
 ### Table of Contents
 
 - [Usage](#usage)
-- [Standard Curves](#standard-curves)
-  *[Cartridge Lot number to Standard Curve mapping table](#cartridge-lot-number-to-standard-curve-mapping)
-  *[Standard Curve Parameters](#standard-curve-parameters)
+- [Standard Curves](#standard-curves)  
+  * [Cartridge Lot number to Standard Curve mapping table](#cartridge-lot-number-to-standard-curve-mapping)  
+  * [Standard Curve Parameters](#standard-curve-parameters)  
 - [Roadmap](#roadmap)
 - [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 - [Citations](#citations)
 - [License](#license)
 
@@ -60,7 +61,7 @@ A [form-fillable excel sheet]() is available for download that provides the func
 | GX23-0001_FluB       | Flu B      | -1.477 | 44.5      | 96.8%          | 8                       |
 | GX23-0001_RSV        | RSV        | -1.855 | 49.3      | 71.4%          | 8                       |
 
-Effective sample volume is calculated according to the [Protocol for Evaluations of RT-qPCR Performance Characteristics](files.ontario.ca/mecp-protocol-for-analyzing-wastewater-samples-en-2022-03-23.pdf). Effective sample volume is subject to change.
+Effective sample volume is calculated according to the [Protocol for Evaluations of RT-qPCR Performance Characteristics](https://files.ontario.ca/mecp-protocol-for-analyzing-wastewater-samples-en-2022-03-23.pdf). Effective sample volume is subject to change.
 
 ## Roadmap
 
@@ -70,7 +71,7 @@ If you have ideas for releases in the future, it is a good idea to list them in 
 
 Generic Wastewater surveillance email or NRI email?
 
-## Acknowledgements {#acknowledgements}
+## Acknowledgements
 
 Show your appreciation to those who have contributed to the project.
 
