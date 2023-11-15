@@ -2,8 +2,6 @@
 
 Some text describing GeneXpert use for wastewater surveillance of pathogens.
 
-*Link papers here*
-
 *For professionalism we can add some visuals here*
 
 ### Table of Contents
@@ -12,7 +10,7 @@ Some text describing GeneXpert use for wastewater surveillance of pathogens.
 - [Standard Curves](#standard-curves)
   *[Cartridge Lot number to Standard Curve mapping table](#cart-to-curve)
   *[Standard Curve Parameters](#std-curve-params)
-- [Roadmap](roadmap)
+- [Roadmap](#roadmap)
 - [Contact](#contact)
 - [Citations](#citations)
 - [License](#license)
@@ -20,7 +18,7 @@ Some text describing GeneXpert use for wastewater surveillance of pathogens.
 
 ## Usage {#usage}
 
-*For the programmaticaly capable, we can have lines of R code here explaining how to use our reporting pipeline.*
+*For the programmatically capable, we can have lines of R code here explaining how to use our reporting pipeline.*
 
 Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
 
