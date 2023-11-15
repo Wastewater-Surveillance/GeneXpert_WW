@@ -8,13 +8,29 @@ Some text describing GeneXpert use for wastewater surveillance of pathogens.
 
 ### Table of Contents
 
-[Standard Curves](#standard-curves)
+- [Usage](#usage)
+- [Standard Curves](#standard-curves)
+  *[Cartridge Lot number to Standard Curve mapping table](#cart-to-curve)
+  *[Standard Curve Parameters](#std-curve-params)
+- [Roadmap](roadmap)
+- [Contact](#contact)
+- [Citations](#citations)
+- [License](#license)
+
+
+## Usage {#usage}
+
+*For the programmaticaly capable, we can have lines of R code here explaining how to use our reporting pipeline.*
+
+Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
 
 ## Standard Curves {#standard-curves}
 
+*Here we can have some text explaining the rotating standard curve*
+
 A [form-fillable excel sheet]() is available for download that provides the function for quantification of GeneXpert Ct values.
 
-### Cartridge Lot Number to Standard Curve Mapping
+### Cartridge Lot Number to Standard Curve Mapping {#cart-to-curve}
 
 *Need to backfill previous lot numbers and standard curves for non-plus cartridges*
 *Standard Curve names below are examples and are subject to change*
@@ -33,7 +49,7 @@ A [form-fillable excel sheet]() is available for download that provides the func
 | 14019                | GX23-0002_SARS_COV_2         | GX23-001_FluA1          | GX23-001_FluA2          | GX23-001_FluB          | GX23-001_RSV          |
 | 14714                | GX23-0002_SARS_COV_2         | GX23-001_FluA1          | GX23-001_FluA2          | GX23-001_FluB          | GX23-001_RSV          |
 
-### Standard Curve Parameters
+### Standard Curve Parameters {#std-curve-params}
 
 *Need to backfill standard curves for non-plus cartridges*
 
@@ -46,36 +62,34 @@ A [form-fillable excel sheet]() is available for download that provides the func
 | GX23-0001_FluB       | Flu B      | -1.477 | 44.5      | 96.8%          | 8                       |
 | GX23-0001_RSV        | RSV        | -1.855 | 49.3      | 71.4%          | 8                       |
 
-Effective sample volume is calculated according to the [Protocol for Evaluations of RT-qPCR PErformance Characteristics](files.ontario.ca/mecp-protocol-for-analyzing-wastewater-samples-en-2022-03-23/pdf)
+Effective sample volume is calculated according to the [Protocol for Evaluations of RT-qPCR Performance Characteristics](files.ontario.ca/mecp-protocol-for-analyzing-wastewater-samples-en-2022-03-23/pdf). Effective sample volume is subject to change.
 
-## Usage
-
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-
-## Roadmap
+## Roadmap {#roadmap}
 
 If you have ideas for releases in the future, it is a good idea to list them in the README.
 
-## Contributing
-
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Contact
+## Contact {#contact}
 
 Generic Wastewater surveillance email or NRI email?
 
-## Authors and acknowledgment
+## Acknowledgements {#acknowledgements}
 
 Show your appreciation to those who have contributed to the project.
 
-## License
+## Citations {#citations}
 
-For open source projects, say how it is licensed.
+If you find NML's GeneXpert Surveillance program useful, please cite the following paper:
 
-## Project status
+> Daigle J, Racher K, Hazenberg J, Yeoman A, Hannah H, Duong D, Mohammed U, Spreitzer D, Gregorchuk BSJ, Head BM, Meyers AFA, Sandstrom PA, Nichani A, Brooks JI, Mulvey MR, Mangat CS, Becker MG. *A Sensitive and Rapid Wastewater Test for SARS-COV-2 and Its Use for the Early Detection of a Cluster of Cases in a Remote Community*. Applied and Environmental Microbiology. 2022. March 8th. doi: [https://doi.org/10.1128/aem.01740-21](https://doi.org/10.1128/aem.01740-21)
 
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+## License {#license}
+
+*I copied the license from the official PHAC-NML page, not sure if this is correct*
+
+Copyright 2023 Government of Canada
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this work except in compliance with the License. You may obtain a copy of the License at:
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
