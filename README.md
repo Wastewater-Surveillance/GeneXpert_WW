@@ -8,7 +8,7 @@ Some text describing GeneXpert use for wastewater surveillance of pathogens.
 
 - [Usage](#usage)
 - [Standard Curves](#standard-curves)  
-  * [Cartridge Lot number to Standard Curve mapping table](#cartridge-lot-number-to-standard-curve-mapping)  
+  * [Cartridge Lot to Standard Curve mapping table](#cartridge-lot-to-standard-curve-mapping)  
   * [Standard Curve Parameters](#standard-curve-parameters)  
 - [Roadmap](#roadmap)
 - [Contact](#contact)
@@ -29,7 +29,7 @@ Use examples liberally, and show the expected output if you can. It's helpful to
 
 A [form-fillable excel sheet]() is available for download that provides the function for quantification of GeneXpert Ct values.
 
-### Cartridge Lot Number to Standard Curve Mapping {#cart-to-curve}
+### Cartridge Lot to Standard Curve Mapping
 
 *Need to backfill previous lot numbers and standard curves for non-plus cartridges*
 *Standard Curve names below are examples and are subject to change*
@@ -40,13 +40,13 @@ A [form-fillable excel sheet]() is available for download that provides the func
 | 7026                 | GX23-0002_SARS_COV_2         | GX23-001_FluA1          | GX23-001_FluA2          | GX23-001_FluB          | GX23-001_RSV          |
 | 14018                | GX23-0002_SARS_COV_2         | GX23-001_FluA1          | GX23-001_FluA2          | GX23-001_FluB          | GX23-001_RSV          |
 | 20201                | GX23-0002_SARS_COV_2         | GX23-001_FluA1          | GX23-001_FluA2          | GX23-001_FluB          | GX23-001_RSV          |
-| 7026                 | GX23-0002_SARS_COV_2         | GX23-001_FluA1          | GX23-001_FluA2          | GX23-001_FluB          | GX23-001_RSV          |
 | 20204                | GX23-0002_SARS_COV_2         | GX23-001_FluA1          | GX23-001_FluA2          | GX23-001_FluB          | GX23-001_RSV          |
 | 20205                | GX23-0002_SARS_COV_2         | GX23-001_FluA1          | GX23-001_FluA2          | GX23-001_FluB          | GX23-001_RSV          |
 | 20206                | GX23-0002_SARS_COV_2         | GX23-001_FluA1          | GX23-001_FluA2          | GX23-001_FluB          | GX23-001_RSV          |
-| 7026                 | GX23-0002_SARS_COV_2         | GX23-001_FluA1          | GX23-001_FluA2          | GX23-001_FluB          | GX23-001_RSV          |
 | 14019                | GX23-0002_SARS_COV_2         | GX23-001_FluA1          | GX23-001_FluA2          | GX23-001_FluB          | GX23-001_RSV          |
 | 14714                | GX23-0002_SARS_COV_2         | GX23-001_FluA1          | GX23-001_FluA2          | GX23-001_FluB          | GX23-001_RSV          |
+
+[Back to top](#genexpert-wastewater-surveillance)
 
 ### Standard Curve Parameters
 
@@ -62,6 +62,8 @@ A [form-fillable excel sheet]() is available for download that provides the func
 | GX23-0001_RSV        | RSV        | -1.855 | 49.3      | 71.4%          | 8                       |
 
 Effective sample volume is calculated according to the [Protocol for Evaluations of RT-qPCR Performance Characteristics](https://files.ontario.ca/mecp-protocol-for-analyzing-wastewater-samples-en-2022-03-23.pdf). Effective sample volume is subject to change.
+
+[Back to top](#genexpert-wastewater-surveillance)
 
 ## Roadmap
 
@@ -92,3 +94,5 @@ Licensed under the Apache License, Version 2.0 (the "License"); you may not use 
 http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+[Back to top](#genexpert-wastewater-surveillance)
