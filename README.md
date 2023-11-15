@@ -8,21 +8,21 @@ Some text describing GeneXpert use for wastewater surveillance of pathogens.
 
 - [Usage](#usage)
 - [Standard Curves](#standard-curves)
-  *[Cartridge Lot number to Standard Curve mapping table](#cart-to-curve)
-  *[Standard Curve Parameters](#std-curve-params)
+  *[Cartridge Lot number to Standard Curve mapping table](#cartridge-lot-number-to-standard-curve-mapping)
+  *[Standard Curve Parameters](#standard-curve-parameters)
 - [Roadmap](#roadmap)
 - [Contact](#contact)
 - [Citations](#citations)
 - [License](#license)
 
 
-## Usage {#usage}
+## Usage
 
 *For the programmatically capable, we can have lines of R code here explaining how to use our reporting pipeline.*
 
 Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
 
-## Standard Curves {#standard-curves}
+## Standard Curves
 
 *Here we can have some text explaining the rotating standard curve*
 
@@ -47,7 +47,7 @@ A [form-fillable excel sheet]() is available for download that provides the func
 | 14019                | GX23-0002_SARS_COV_2         | GX23-001_FluA1          | GX23-001_FluA2          | GX23-001_FluB          | GX23-001_RSV          |
 | 14714                | GX23-0002_SARS_COV_2         | GX23-001_FluA1          | GX23-001_FluA2          | GX23-001_FluB          | GX23-001_RSV          |
 
-### Standard Curve Parameters {#std-curve-params}
+### Standard Curve Parameters
 
 *Need to backfill standard curves for non-plus cartridges*
 
@@ -60,13 +60,13 @@ A [form-fillable excel sheet]() is available for download that provides the func
 | GX23-0001_FluB       | Flu B      | -1.477 | 44.5      | 96.8%          | 8                       |
 | GX23-0001_RSV        | RSV        | -1.855 | 49.3      | 71.4%          | 8                       |
 
-Effective sample volume is calculated according to the [Protocol for Evaluations of RT-qPCR Performance Characteristics](files.ontario.ca/mecp-protocol-for-analyzing-wastewater-samples-en-2022-03-23/pdf). Effective sample volume is subject to change.
+Effective sample volume is calculated according to the [Protocol for Evaluations of RT-qPCR Performance Characteristics](files.ontario.ca/mecp-protocol-for-analyzing-wastewater-samples-en-2022-03-23.pdf). Effective sample volume is subject to change.
 
-## Roadmap {#roadmap}
+## Roadmap
 
 If you have ideas for releases in the future, it is a good idea to list them in the README.
 
-## Contact {#contact}
+## Contact
 
 Generic Wastewater surveillance email or NRI email?
 
@@ -74,13 +74,13 @@ Generic Wastewater surveillance email or NRI email?
 
 Show your appreciation to those who have contributed to the project.
 
-## Citations {#citations}
+## Citations
 
 If you find NML's GeneXpert Surveillance program useful, please cite the following paper:
 
 > Daigle J, Racher K, Hazenberg J, Yeoman A, Hannah H, Duong D, Mohammed U, Spreitzer D, Gregorchuk BSJ, Head BM, Meyers AFA, Sandstrom PA, Nichani A, Brooks JI, Mulvey MR, Mangat CS, Becker MG. *A Sensitive and Rapid Wastewater Test for SARS-COV-2 and Its Use for the Early Detection of a Cluster of Cases in a Remote Community*. Applied and Environmental Microbiology. 2022. March 8th. doi: [https://doi.org/10.1128/aem.01740-21](https://doi.org/10.1128/aem.01740-21)
 
-## License {#license}
+## License
 
 *I copied the license from the official PHAC-NML page, not sure if this is correct*
 
