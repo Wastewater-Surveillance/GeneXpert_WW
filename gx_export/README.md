@@ -32,7 +32,7 @@ source("clean_gx_csv.R")
 To clean GeneXpert CSV export data ([GX_export_demo.csv](./GX_export_demo.csv)), please run:
 
 ```R
-clean_gx_csv("GX_export_demo.csv",
+clean_data <- clean_gx_csv("GX_export_demo.csv",
   date_format = "ymd",
   mask_IDS = FALSE,
   flag_qc = TRUE)
