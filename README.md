@@ -1,4 +1,4 @@
-# GeneXpert Wastewater Surveillance {#genexpert-wastewater-surveillance}
+# GeneXpert Wastewater Surveillance
 
 The National Micriobiology Laboratory has developed a protocol and analysis pipeline for the use of GeneXpert Systems in wastewater surveillance of respiratory targets.
 
@@ -6,21 +6,21 @@ The National Micriobiology Laboratory has developed a protocol and analysis pipe
 
 -   [Usage](#usage)
 -   [Standard Curves](#standard-curves)
-    -   [Cartridge Lot to Standard Curve mapping table](#cartridge-lot-to-standard-curve-mapping)\
-    -   [Standard Curve Parameters](#standard-curve-parameters)\
+    -   [Cartridge Lot to Standard Curve mapping table](#cartridge-lot-to-standard-curve-mapping)
+    -   [Standard Curve Parameters](#standard-curve-parameters)
 -   [Roadmap](#roadmap)
 -   [Contact](#contact)
 -   [Citations](#citations)
 
-## Usage {#usage}
+## Usage
 
 This section will describe using examples the usage of the NML GeneXpert wastewater analysis pipeline. The pipeline will also be shared on this repository shortly.
 
-## Standard Curves {#standard-curves}
+## Standard Curves
 
 A [form-fillable excel sheet]() will be made available for download that provides the function for quantification of GeneXpert Ct values.
 
-### Cartridge Lot to Standard Curve Mapping {#cartridge-lot-to-standard-curve-mapping}
+### Cartridge Lot to Standard Curve Mapping
 
 | Cartridge Lot Number | SARS-CoV-2 Standard Curve ID | Flu A 1 Standard Curve ID | Flu A 2 Standard Curve ID | Flu B Standard Curve ID | RSV Standard Curve ID |
 |------------|------------|------------|------------|------------|------------|
@@ -82,7 +82,7 @@ A [form-fillable excel sheet]() will be made available for download that provide
 
 [Back to top](#genexpert-wastewater-surveillance)
 
-### Standard Curve Parameters {#standard-curve-parameters}
+### Standard Curve Parameters
 
 | Standard Curve ID    |   Target   | Slope  | Intercept | PCR Efficiency | Effective Sample Volume |
 |------------|:----------:|:----------:|:----------:|:----------:|:----------:|
@@ -103,15 +103,15 @@ Effective sample volume is the amount of original sample volume being processed 
 
 [Back to top](#genexpert-wastewater-surveillance)
 
-## Roadmap {#roadmap}
+## Roadmap
 
 Ideas for future releases will be listed here.
 
-## Contact {#contact}
+## Contact
 
 Wastewater Surveillance Unit National Microbiology Laboratory Public Health Agency of Canada [nmlwastewater\@phac-aspc.gc.ca](mailto:nmlwastewater@phac-aspc.gc.ca){.email}
 
-## Citations {#citations}
+## Citations
 
 If you find NML's GeneXpert Surveillance program useful, please cite the following:
 
