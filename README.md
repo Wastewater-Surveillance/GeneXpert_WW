@@ -99,7 +99,7 @@ Effective sample volume is the amount of original sample volume being processed 
 
 40 mL x 15 mL/40 mL x 200 uL / 250 uL x 300 uL / 400 uL = 9 mL effective volume.
 
-*Note: Work is underway to measure and account for volume lost in the filter and clarification steps of the NML protocol*
+**Note: Work is underway to measure and account for volume lost in the filter and clarification steps of the NML protocol**
 
 [Back to top](#genexpert-wastewater-surveillance)
 
@@ -109,7 +109,7 @@ Ideas for future releases will be listed here.
 
 ## Contact
 
-Wastewater Surveillance Unit National Microbiology Laboratory Public Health Agency of Canada [nmlwastewater\@phac-aspc.gc.ca](mailto:nmlwastewater@phac-aspc.gc.ca){.email}
+Wastewater Surveillance Unit National Microbiology Laboratory Public Health Agency of Canada [nmlwastewater\@phac-aspc.gc.ca](mailto:nmlwastewater@phac-aspc.gc.ca)
 
 ## Citations
 
