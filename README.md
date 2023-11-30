@@ -10,9 +10,7 @@ The National Micriobiology Laboratory has developed a protocol and analysis pipe
     -   [Standard Curve Parameters](#standard-curve-parameters)\
 -   [Roadmap](#roadmap)
 -   [Contact](#contact)
--   [Acknowledgements](#acknowledgements)
 -   [Citations](#citations)
--   [License](#license)
 
 ## Usage {#usage}
 
