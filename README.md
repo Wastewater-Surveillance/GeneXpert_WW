@@ -70,15 +70,15 @@ A [form-fillable excel sheet]() will be made available for download that provide
 | 06708                | GX23-0001_SARS_COV_2         | GX23-0001_FluA1           | GX23-0001_FluA2           | GX23-0001_FluB          | GX23-0001_RSV         |
 | 13816                | GX23-0001_SARS_COV_2         | GX23-0001_FluA1           | GX23-0001_FluA2           | GX23-0001_FluB          | GX23-0001_RSV         |
 | 14903                | GX23-0001_SARS_COV_2         | GX23-0001_FluA1           | GX23-0001_FluA2           | GX23-0001_FluB          | GX23-0001_RSV         |
-| 4534                 | GX23-0002_SARS_COV_2         | GX23-001_FluA1            | GX23-001_FluA2            | GX23-001_FluB           | GX23-001_RSV          |
-| 7026                 | GX23-0002_SARS_COV_2         | GX23-001_FluA1            | GX23-001_FluA2            | GX23-001_FluB           | GX23-001_RSV          |
-| 14018                | GX23-0002_SARS_COV_2         | GX23-001_FluA1            | GX23-001_FluA2            | GX23-001_FluB           | GX23-001_RSV          |
-| 20201                | GX23-0002_SARS_COV_2         | GX23-001_FluA1            | GX23-001_FluA2            | GX23-001_FluB           | GX23-001_RSV          |
-| 20204                | GX23-0002_SARS_COV_2         | GX23-001_FluA1            | GX23-001_FluA2            | GX23-001_FluB           | GX23-001_RSV          |
-| 20205                | GX23-0002_SARS_COV_2         | GX23-001_FluA1            | GX23-001_FluA2            | GX23-001_FluB           | GX23-001_RSV          |
-| 20206                | GX23-0002_SARS_COV_2         | GX23-001_FluA1            | GX23-001_FluA2            | GX23-001_FluB           | GX23-001_RSV          |
-| 14019                | GX23-0002_SARS_COV_2         | GX23-001_FluA1            | GX23-001_FluA2            | GX23-001_FluB           | GX23-001_RSV          |
-| 14714                | GX23-0002_SARS_COV_2         | GX23-001_FluA1            | GX23-001_FluA2            | GX23-001_FluB           | GX23-001_RSV          |
+| 4534                 | GX23-0002_SARS_COV_2         | GX23-0001_FluA1            | GX23-0001_FluA2            | GX23-0001_FluB           | GX23-0001_RSV          |
+| 7026                 | GX23-0002_SARS_COV_2         | GX23-0001_FluA1            | GX23-0001_FluA2            | GX23-0001_FluB           | GX23-0001_RSV          |
+| 14018                | GX23-0002_SARS_COV_2         | GX23-0001_FluA1            | GX23-0001_FluA2            | GX23-0001_FluB           | GX23-0001_RSV          |
+| 20201                | GX23-0002_SARS_COV_2         | GX23-0001_FluA1            | GX23-0001_FluA2            | GX23-0001_FluB           | GX23-0001_RSV          |
+| 20204                | GX23-0002_SARS_COV_2         | GX23-0001_FluA1            | GX23-0001_FluA2            | GX23-0001_FluB           | GX23-0001_RSV          |
+| 20205                | GX23-0002_SARS_COV_2         | GX23-0001_FluA1            | GX23-0001_FluA2            | GX23-0001_FluB           | GX23-0001_RSV          |
+| 20206                | GX23-0002_SARS_COV_2         | GX23-0001_FluA1            | GX23-0001_FluA2            | GX23-0001_FluB           | GX23-0001_RSV          |
+| 14019                | GX23-0002_SARS_COV_2         | GX23-0001_FluA1            | GX23-0001_FluA2            | GX23-0001_FluB           | GX23-0001_RSV          |
+| 14714                | GX23-0002_SARS_COV_2         | GX23-0001_FluA1            | GX23-0001_FluA2            | GX23-0001_FluB           | GX23-0001_RSV          |
 
 [Back to top](#genexpert-wastewater-surveillance)
 
