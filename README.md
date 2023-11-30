@@ -109,7 +109,10 @@ Ideas for future releases will be listed here.
 
 ## Contact
 
-Wastewater Surveillance Unit National Microbiology Laboratory Public Health Agency of Canada [nmlwastewater\@phac-aspc.gc.ca](mailto:nmlwastewater@phac-aspc.gc.ca)
+Wastewater Surveillance Unit  
+National Microbiology Laboratory  
+Public Health Agency of Canada  
+[nmlwastewater\@phac-aspc.gc.ca](mailto:nmlwastewater@phac-aspc.gc.ca)
 
 ## Citations
 
