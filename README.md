@@ -70,8 +70,8 @@ A [form-fillable excel sheet]() will be made available for download that provide
 | 06708                | GX23-0001_SARS_COV_2         | GX23-0001_FluA1           | GX23-0001_FluA2           | GX23-0001_FluB          | GX23-0001_RSV         |
 | 13816                | GX23-0001_SARS_COV_2         | GX23-0001_FluA1           | GX23-0001_FluA2           | GX23-0001_FluB          | GX23-0001_RSV         |
 | 14903                | GX23-0001_SARS_COV_2         | GX23-0001_FluA1           | GX23-0001_FluA2           | GX23-0001_FluB          | GX23-0001_RSV         |
-| 4534                 | GX23-0002_SARS_COV_2         | GX23-0001_FluA1            | GX23-0001_FluA2            | GX23-0001_FluB           | GX23-0001_RSV          |
-| 7026                 | GX23-0002_SARS_COV_2         | GX23-0001_FluA1            | GX23-0001_FluA2            | GX23-0001_FluB           | GX23-0001_RSV          |
+| 04534                | GX23-0002_SARS_COV_2         | GX23-0001_FluA1            | GX23-0001_FluA2            | GX23-0001_FluB           | GX23-0001_RSV          |
+| 07026                | GX23-0002_SARS_COV_2         | GX23-0001_FluA1            | GX23-0001_FluA2            | GX23-0001_FluB           | GX23-0001_RSV          |
 | 14018                | GX23-0002_SARS_COV_2         | GX23-0001_FluA1            | GX23-0001_FluA2            | GX23-0001_FluB           | GX23-0001_RSV          |
 | 20201                | GX23-0002_SARS_COV_2         | GX23-0001_FluA1            | GX23-0001_FluA2            | GX23-0001_FluB           | GX23-0001_RSV          |
 | 20204                | GX23-0002_SARS_COV_2         | GX23-0001_FluA1            | GX23-0001_FluA2            | GX23-0001_FluB           | GX23-0001_RSV          |
@@ -79,6 +79,7 @@ A [form-fillable excel sheet]() will be made available for download that provide
 | 20206                | GX23-0002_SARS_COV_2         | GX23-0001_FluA1            | GX23-0001_FluA2            | GX23-0001_FluB           | GX23-0001_RSV          |
 | 14019                | GX23-0002_SARS_COV_2         | GX23-0001_FluA1            | GX23-0001_FluA2            | GX23-0001_FluB           | GX23-0001_RSV          |
 | 14714                | GX23-0002_SARS_COV_2         | GX23-0001_FluA1            | GX23-0001_FluA2            | GX23-0001_FluB           | GX23-0001_RSV          |
+| 22920                | GX23-0002_SARS_COV_2         | GX23-0001_FluA1            | GX23-0001_FluA2            | GX23-0001_FluB           | GX23-0001_RSV          |
 
 [Back to top](#genexpert-wastewater-surveillance)
 
@@ -86,12 +87,12 @@ A [form-fillable excel sheet]() will be made available for download that provide
 
 | Standard Curve ID    |   Target   | Slope  | Intercept | PCR Efficiency | Effective Sample Volume |
 |------------|:----------:|:----------:|:----------:|:----------:|:----------:|
-| GX23-0001_SARS_COV_2 | SARS-CoV-2 | -3.207 |  42.434   |      105%      |            9            |
+| GX23-0001_SARS_COV_2 | SARS-CoV-2 | -3.207 |  42.434   |     105.0%     |            9            |
 | GX23-0002_SARS_COV_2 | SARS-CoV-2 | -3.479 |  43.487   |     93.8%      |            9            |
-| GX23-0001_FluA1      |   Flu A    | -1.373 |   40.0    |     107.2%     |            9            |
-| GX23-0001_FluA2      |   Flu A    | -1.435 |   43.8    |     100.7%     |            9            |
-| GX23-0001_FluB       |   Flu B    | -1.477 |   44.5    |     96.8%      |            9            |
-| GX23-0001_RSV        |    RSV     | -1.855 |   49.3    |     71.4%      |            9            |
+| GX23-0001_FluA1      |   Flu A    | -3.162 |  38.321   |     107.2%     |            9            |
+| GX23-0001_FluA2      |   Flu A    | -3.309 |  42.035   |     100.7%     |            9            |
+| GX23-0001_FluB       |   Flu B    | -3.401 |  42.700   |     96.8%      |            9            |
+| GX23-0001_RSV        |    RSV     | -4.270 |  47.077   |     71.4%      |            9            |
 
 Effective sample volume is the amount of original sample volume being processed by the assay as defined by [Protocol for Evaluations of RT-qPCR Performance Characteristics](https://files.ontario.ca/mecp-protocol-for-analyzing-wastewater-samples-en-2022-03-23.pdf). In short, Effective sample volume is calculated by accounting for volume lost in the process using ratios. Using the NML GeneXpert process as an example:
 
