@@ -23,9 +23,9 @@ A [form-fillable excel file](GXWW_conversion_2023_12_21.xlsx) is available for d
 
 ### Cartridge Lot to Standard Curve Mapping
 
-A table that maps the GeneXpert Cartridge Lot Number to its standard curve is available for download as an [excel file](gx_lotmapping/GXWW_lotmapping_2023_12_21.xlsx) and [csv file](gx_lotmapping/GXWW_lotmapping_2023_12_21.csv). Files will be updated to inlcude new lots. The GeneXpert Cartridge Lot Number is the 5 digit number (inlcuding all leading zeros) found on the test cartridge or GeneXpert pdf test report (as Reagent Lot ID).
+A table that maps the GeneXpert Cartridge Lot Number to its standard curve is available for download as an [excel file](gx_lotmapping/GXWW_lotmapping_2023_12_21.xlsx) and [csv file](gx_lotmapping/GXWW_lotmapping_2023_12_21.csv). Files will be updated to include new lots. The GeneXpert Cartridge Lot Number is the 5 digit number (including all leading zeros) found on the test cartridge or GeneXpert pdf test report (as Reagent Lot ID).
 
-An example of the this table is seen here:
+An example of this table is seen here:
 | Cartridge Lot Number | SARS-CoV-2 Standard Curve ID | Flu A 1 Standard Curve ID | Flu A 2 Standard Curve ID | Flu B Standard Curve ID | RSV Standard Curve ID |
 |------------|------------|------------|------------|------------|------------|
 | 02009                | GX23-0001_SARS_COV_2         | GX23-0001_FluA1           | GX23-0001_FluA2           | GX23-0001_FluB          | GX23-0001_RSV         |
@@ -42,7 +42,7 @@ The formula for GeneXpert Ct quantification with these standard curves is:
 
 **cp/mL in Wastewater = (10^((Ct - Intercept)/ Slope)) / Effective Sample Volume**
 
-An example of the this table is seen here:
+An example of this table is seen here:
 | Standard Curve ID    |   Target   | Slope  | Intercept | PCR Efficiency | Effective Sample Volume |
 |------------|:----------:|:----------:|:----------:|:----------:|:----------:|
 | GX23-0001_SARS_COV_2 | SARS-CoV-2 | -3.207 |  42.434   |     105.0%     |            9            |
