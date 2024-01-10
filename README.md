@@ -36,7 +36,7 @@ An example of this table is seen here:
 
 ### Standard Curve Parameters
 
-Standard curves for the quantification of Ct values in wastewater is available for download as [excel file](gx_stdcurves/GXWW_gx_stdcurves_2023_12_21.xslx) and [csv file](gx_stdcurves/GXWW_gx_stdcurves_2023_12_21.csv). Files will be updated to include current standard curve information.
+Standard curves for the quantification of Ct values in wastewater is available for download as [excel file](gx_stdcurves/GXWW_stdcurves_2023_12_21.xslx) and [csv file](gx_stdcurves/GXWW_stdcurves_2023_12_21.csv). Files will be updated to include current standard curve information.
 
 The formula for GeneXpert Ct quantification with these standard curves is:
 
@@ -45,8 +45,8 @@ The formula for GeneXpert Ct quantification with these standard curves is:
 An example of this table is seen here:
 | Standard Curve ID    |   Target   | Slope  | Intercept | PCR Efficiency | Effective Sample Volume |
 |------------|:----------:|:----------:|:----------:|:----------:|:----------:|
-| GX23-0001_SARS_COV_2 | SARS-CoV-2 | -3.207 |  42.434   |     105.0%     |            9            |
-| GX23-0002_SARS_COV_2 | SARS-CoV-2 | -3.479 |  43.146   |     93.8%      |            9            |
+| GX23-0001_SARS_COV_2 | SARS-CoV-2 | -3.207 |  43.146   |     105.0%     |            9            |
+| GX23-0002_SARS_COV_2 | SARS-CoV-2 | -3.479 |  43.487   |     93.8%      |            9            |
 | GX23-0001_FluA1      |   Flu A    | -3.162 |  39.022   |     107.2%     |            9            |
 | GX23-0001_FluA2      |   Flu A    | -3.309 |  42.769   |     100.7%     |            9            |
 | GX23-0001_FluB       |   Flu B    | -3.401 |  43.454   |     96.8%      |            9            |
