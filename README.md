@@ -23,7 +23,7 @@ A [form-fillable excel file](GXWW_conversion_2023_12_21.xlsx) is available for d
 
 ### Cartridge Lot to Standard Curve Mapping
 
-A table that maps the GeneXpert Cartridge Lot Number to its standard curve is available for download as an [excel file](gx_lotmapping/GXWW_lotmapping_2023_12_21.xlsx) and [csv file](gx_lotmapping/GXWW_lotmapping_2023_12_21.csv). Files will be updated to include new lots. The GeneXpert Cartridge Lot Number is the 5 digit number (including all leading zeros) found on the test cartridge or GeneXpert pdf test report (as Reagent Lot ID).
+A table that maps the GeneXpert Cartridge Lot Number to its standard curve is available for download as an [excel file](gx_lotmapping/std_curve_params.xlsx) and [csv file](gx_lotmapping/std_curve_params.csv). Files will be updated to include new lots. The GeneXpert Cartridge Lot Number is the 5 digit number (including all leading zeros) found on the test cartridge or GeneXpert pdf test report (as Reagent Lot ID).
 
 An example of this table is seen here:
 | Cartridge Lot Number | SARS-CoV-2 Standard Curve ID | Flu A 1 Standard Curve ID | Flu A 2 Standard Curve ID | Flu B Standard Curve ID | RSV Standard Curve ID |
@@ -36,7 +36,7 @@ An example of this table is seen here:
 
 ### Standard Curve Parameters
 
-Standard curves for the quantification of Ct values in wastewater is available for download as [excel file](gx_stdcurves/GXWW_stdcurves_2023_12_21.xslx) and [csv file](gx_stdcurves/GXWW_stdcurves_2023_12_21.csv). Files will be updated to include current standard curve information.
+Standard curves for the quantification of Ct values in wastewater is available for download as [excel file](gx_stdcurves/lot_std_curve.xlsx) and [csv file](gx_stdcurves/lot_std_curve.csv). Files will be updated to include current standard curve information.
 
 The formula for GeneXpert Ct quantification with these standard curves is:
 
