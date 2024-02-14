@@ -36,7 +36,7 @@ An example of this table is seen here:
 
 ### Standard Curve Parameters
 
-Standard curves for the quantification of Ct values in wastewater is available for download as [excel file](gx_stdcurves/lot_std_curve.xslx) and [csv file](gx_stdcurves/lot_std_curve.csv). Files will be updated to include current standard curve information.
+Standard curves for the quantification of Ct values in wastewater is available for download as [excel file](gx_stdcurves/lot_std_curve.xlsx) and [csv file](gx_stdcurves/lot_std_curve.csv). Files will be updated to include current standard curve information.
 
 The formula for GeneXpert Ct quantification with these standard curves is:
 
