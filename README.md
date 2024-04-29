@@ -19,7 +19,7 @@ This section will describe using examples the usage of the NML GeneXpert wastewa
 
 ## Standard Curves
 
-A [form-fillable excel file](GXWW_conversion_2023_12_21.xlsx) is available for download that provides quantification of GeneXpert Ct values into viral copies per mL.
+A [form-fillable excel file](GXWW_conversion.xlsx) is available for download that provides quantification of GeneXpert Ct values into viral copies per mL.
 
 ### Cartridge Lot to Standard Curve Mapping
 
